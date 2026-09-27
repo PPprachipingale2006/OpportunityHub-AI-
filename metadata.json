@@ -1,0 +1,6 @@
+{
+  "name": "OpportunityHub AI",
+  "description": "Student Opportunity Discovery Platform — Discover, prepare, and apply for internships, hackathons, scholarships, courses, certifications, competitions, and workshops personalized to your skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
